@@ -20,6 +20,12 @@
 </dir>
 
 <dir>
-  <title>[B][COLORpurple]2019 - Oscar Nominees & Winners[/COLOR][/B]</title>
-  <trakt>https://api.trakt.tv/users/andreofgyn/lists/2019-oscar-nominees-winners/items</trakt>
+  <title>[B][COLORpurple]My Collections[/COLOR][/B]</title>
+  <trakt>https://api.trakt.tv/users/19872506/lists/my-collections/items</trakt>
 </dir>
+
+<dir>
+  <title>[B][COLORpurple]My Favorites[/COLOR][/B]</title>
+  <tmdb>list/115303</tmdb>
+</dir>    
+    
