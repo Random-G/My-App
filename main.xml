@@ -16,3 +16,9 @@
 <summary>My TV Shows</summary>
 </dir>
 
+<plugin>
+  <title>My YouTube</title>
+  <link>plugin://plugin.video.youtube/channel/UCtboWmGjhtZLtQDyG1EndSg/playlists/</link>
+  <thumbnail>https://s3.dexerto.com/thumbnails/_thumbnailLarge/youtube-logo-thumbnail-change-experiment.jpg</thumbnail>
+</plugin>
+
