@@ -1,0 +1,13 @@
+<dir>
+  <title>[B][COLORpurple]The Marvel Universe[/COLOR][/B]</title>
+  <tmdb>list/1</tmdb>
+  <thumbnail>https://upload.wikimedia.org/wikipedia/en/1/19/Marvel_Universe_%28Civil_War%29.jpg</thumbnail>
+  <fanart>https://cdn.vox-cdn.com/thumbor/TPY4MtzQhbwjjbhDlvm-l6MnNDE=/18x0:1813x1197/920x613/filters:focal(18x0:1813x1197):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/46275738/marvel.0.jpg</fanart>
+</dir>
+
+<dir>
+  <title>[B][COLORpurple]Worlds of DC[/COLOR][/B]</title>
+  <trakt>https://api.trakt.tv/users/tetharion/lists/worlds-of-dc/items</trakt>
+  <thumbnail>https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/332255/332255._SX1280_QL80_TTD_.jpg</thumbnail>
+  <fanart>https://www.comicsbeat.com/wp-content/uploads/2018/09/crisis.jpg</fanart>
+</dir>
