@@ -11,3 +11,15 @@
   <thumbnail>https://images-na.ssl-images-amazon.com/images/S/cmx-images-prod/Item/332255/332255._SX1280_QL80_TTD_.jpg</thumbnail>
   <fanart>https://www.comicsbeat.com/wp-content/uploads/2018/09/crisis.jpg</fanart>
 </dir>
+
+<dir>
+  <title>[B][COLORpurple]The Marvel Universe[/COLOR][/B]</title>
+  <tmdb>list/1</tmdb>
+  <thumbnail>http://vanguardseattle.com/wp-content/uploads/2018/03/image001.jpg<thumbnail>
+    <fanart>https://external-preview.redd.it/PWU60a0mHbiWvKvjyQjGeox4HMxQQXeSGyzvnaISbc0.jpg?auto=webp&s=14a478f1c09c6d17326710cf760826e40a9dded3</fanart>
+</dir>
+
+<dir>
+  <title>[B][COLORpurple]2019 - Oscar Nominees & Winners[/COLOR][/B]</title>
+  <trakt>https://api.trakt.tv/users/andreofgyn/lists/2019-oscar-nominees-winners/items</trakt>
+</dir>
