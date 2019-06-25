@@ -1,0 +1,16 @@
+** Movies
+<item>
+	<title>Apollo 13 (1995)</title>
+		<meta>
+			<content>movie</content>
+			<imdb>tt0112384</imdb>
+			<title>Apollo 13</title>
+			<year>1995</year>
+		</meta>
+	<link>
+		<sublink>search</sublink>
+		<sublink>searchsd</sublink>
+	</link>
+	<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/6JQ9z3V9x4vlU2GSZx2yNO0PvuX.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/zXKryY6y4EpxDuIgHSsDVo6L9BN.jpg</fanart>
+</item>
