@@ -31,6 +31,6 @@
 
 <dir>
   <title>2019 - Oscar Nominees & Winners</title>
-  <trakt>https://trakt.tv/users/andreofgyn/lists/2019-oscar-nominees-winners/items</trakt>
+  <trakt>https://api.trakt.tv/users/andreofgyn/lists/2019-oscar-nominees-winners/items</trakt>
 </dir>
     
