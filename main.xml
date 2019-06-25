@@ -1,0 +1,18 @@
+##############################################################################
+<poster>Sokra</poster>
+##############################################################################
+
+<dir>
+<name>Movies</name>
+<link>https://raw.githubusercontent.com/Random-G/My-App/master/movies.xml</link>
+<thumbnail></thumbnail>
+<summary>My movies</summary>
+</dir>
+
+<dir>
+<name>TV Shows</name>
+<link>https://raw.githubusercontent.com/Random-G/My-App/master/TV.xml</link>
+<thumbnail></thumbnail>
+<summary>My TV Shows</summary>
+</dir>
+
